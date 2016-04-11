@@ -1,0 +1,3 @@
+<h2><font color='#993300'> 本项目已迁移至Github--》</font><a href='https://github.com/sglfree/freesky'><em> Go now！</em></a></h2>
+<p>==========================================================================================================</p>
+<font color='blue' size='3'><strong>关注最新资源的同学请把网址：<font color='#993300'><a href='http://gofree.ga/download'>http://gofree.ga/download</a> </font>加入浏览器收藏夹以获取及时的更新。</strong></font>
